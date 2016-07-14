@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  CurrentFundationModel
+//
+//  Created by Wynter on 15/11/17.
+//  Copyright © 2015年 Wynter. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "macros.h"
+
+#endif /* PrefixHeader_pch */
