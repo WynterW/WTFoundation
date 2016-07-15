@@ -1,5 +1,5 @@
 ------------------------注意事项--------------------
-1、创建主页文件（也就是一级视图HomeViewController）尽量继承RootBasicViewController，二级视图根据需要继承（BasicWeb，BasicView，BasicTable），具体原因如：http://www.tuicool.com/articles/FB3IJ3 ，如果不怕麻烦每个页面添加也是可以的。
+1、创建主页文件（也就是一级视图HomeViewController）尽量继承RootBasicViewController，二级视图根据需要继承（BasicWeb，BasicView，BasicTable），具体原因如：http://www.tuicool.com/articles/FB3IJ3 。
 2、引入jsonkit 需添加 -fno-objc-arc
 
 
