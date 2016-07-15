@@ -29,7 +29,6 @@
         
         [self createMainView];
         
-        
     }
     return self;
 }
