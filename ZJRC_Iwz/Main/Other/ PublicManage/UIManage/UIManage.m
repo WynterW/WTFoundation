@@ -29,7 +29,6 @@
 
 + (void)showNewFeaturesPage{
     
-    
 }
 
 #pragma mark 退出登录
